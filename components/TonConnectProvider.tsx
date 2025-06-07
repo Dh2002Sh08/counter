@@ -8,7 +8,7 @@ interface TonConnectProviderProps {
 }
 
 const manifestUrl =
-  "https://alefmanvladimir.github.io/my-twa/tonconnect-manifest.json";
+  "https://github.com/Dh2002Sh08/counter/blob/main/ConnectDetails/manifest.json";
 
 export function TonConnectProvider({ children }: TonConnectProviderProps) {
   return (
