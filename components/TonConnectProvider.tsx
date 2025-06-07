@@ -8,7 +8,7 @@ interface TonConnectProviderProps {
 }
 
 const manifestUrl =
-  "https://github.com/Dh2002Sh08/counter/blob/main/ConnectDetails/manifest.json";
+  "https://coffee-peculiar-thrush-870.mypinata.cloud/ipfs/bafkreid5c2dw2zehfk26yqiquye6r77iaky7qb363ufnkbieh5ffloq774";
 
 export function TonConnectProvider({ children }: TonConnectProviderProps) {
   return (
